@@ -1,5 +1,5 @@
-# SDrive
-SDrive is a AI/ML model for an autonomous vehicle in GTA
+# SelfDrive
+SelfDrive is a AI/ML model for an autonomous vehicle in the GTA V video game
 
 Lane Detection
 
